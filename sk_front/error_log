@@ -1,0 +1,61 @@
+[08-Aug-2018 18:17:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/qd23rkwr8b0d/public_html/sk_front/sk_db.php on line 3
+[08-Aug-2018 18:17:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/qd23rkwr8b0d/public_html/sk_front/sk_port.php on line 7
+[08-Aug-2018 18:17:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qd23rkwr8b0d/public_html/sk_front/sk_port.php on line 8
+[08-Aug-2018 18:17:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/qd23rkwr8b0d/public_html/sk_front/sk_db.php on line 3
+[08-Aug-2018 18:17:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/qd23rkwr8b0d/public_html/sk_front/sk_port.php on line 7
+[08-Aug-2018 18:17:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qd23rkwr8b0d/public_html/sk_front/sk_port.php on line 8
+[08-Aug-2018 18:18:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/qd23rkwr8b0d/public_html/sk_front/sk_db.php on line 3
+[08-Aug-2018 18:18:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/qd23rkwr8b0d/public_html/sk_front/sk_port.php on line 7
+[08-Aug-2018 18:18:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qd23rkwr8b0d/public_html/sk_front/sk_port.php on line 8
+[11-Aug-2018 08:00:26 UTC] PHP Notice:  Undefined index: name in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 6
+[11-Aug-2018 08:00:26 UTC] PHP Notice:  Undefined index: email in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 7
+[11-Aug-2018 08:00:26 UTC] PHP Notice:  Undefined index: website in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 8
+[11-Aug-2018 08:00:26 UTC] PHP Notice:  Undefined index: msg in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 9
+[11-Aug-2018 08:00:39 UTC] PHP Notice:  Undefined index: name in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 6
+[11-Aug-2018 08:00:39 UTC] PHP Notice:  Undefined index: email in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 7
+[11-Aug-2018 08:00:39 UTC] PHP Notice:  Undefined index: website in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 8
+[11-Aug-2018 08:00:39 UTC] PHP Notice:  Undefined index: msg in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 9
+[13-Aug-2018 16:27:13 UTC] PHP Notice:  Undefined index: name in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 6
+[13-Aug-2018 16:27:13 UTC] PHP Notice:  Undefined index: email in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 7
+[13-Aug-2018 16:27:13 UTC] PHP Notice:  Undefined index: website in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 8
+[13-Aug-2018 16:27:13 UTC] PHP Notice:  Undefined index: msg in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 9
+[13-Aug-2018 16:27:26 UTC] PHP Notice:  Undefined index: name in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 6
+[13-Aug-2018 16:27:26 UTC] PHP Notice:  Undefined index: email in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 7
+[13-Aug-2018 16:27:26 UTC] PHP Notice:  Undefined index: website in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 8
+[13-Aug-2018 16:27:26 UTC] PHP Notice:  Undefined index: msg in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 9
+[24-Sep-2018 17:25:32 UTC] PHP Notice:  Undefined index: name in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 6
+[24-Sep-2018 17:25:32 UTC] PHP Notice:  Undefined index: email in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 7
+[24-Sep-2018 17:25:32 UTC] PHP Notice:  Undefined index: website in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 8
+[24-Sep-2018 17:25:32 UTC] PHP Notice:  Undefined index: msg in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 9
+[24-Sep-2018 19:38:23 UTC] PHP Notice:  Undefined index: name in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 6
+[24-Sep-2018 19:38:23 UTC] PHP Notice:  Undefined index: email in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 7
+[24-Sep-2018 19:38:23 UTC] PHP Notice:  Undefined index: website in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 8
+[24-Sep-2018 19:38:23 UTC] PHP Notice:  Undefined index: msg in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 9
+[24-Sep-2018 19:39:41 UTC] PHP Notice:  Undefined index: name in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 6
+[24-Sep-2018 19:39:41 UTC] PHP Notice:  Undefined index: email in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 7
+[24-Sep-2018 19:39:41 UTC] PHP Notice:  Undefined index: website in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 8
+[24-Sep-2018 19:39:41 UTC] PHP Notice:  Undefined index: msg in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 9
+[09-Dec-2018 08:45:40 UTC] PHP Notice:  Undefined index: name in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 6
+[09-Dec-2018 08:45:40 UTC] PHP Notice:  Undefined index: email in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 7
+[09-Dec-2018 08:45:40 UTC] PHP Notice:  Undefined index: website in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 8
+[09-Dec-2018 08:45:40 UTC] PHP Notice:  Undefined index: msg in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 9
+[09-Dec-2018 08:45:51 UTC] PHP Notice:  Undefined index: name in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 6
+[09-Dec-2018 08:45:51 UTC] PHP Notice:  Undefined index: email in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 7
+[09-Dec-2018 08:45:51 UTC] PHP Notice:  Undefined index: website in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 8
+[09-Dec-2018 08:45:51 UTC] PHP Notice:  Undefined index: msg in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 9
+[09-Dec-2018 08:45:51 UTC] PHP Notice:  Undefined index: name in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 6
+[09-Dec-2018 08:45:51 UTC] PHP Notice:  Undefined index: email in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 7
+[09-Dec-2018 08:45:51 UTC] PHP Notice:  Undefined index: website in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 8
+[09-Dec-2018 08:45:51 UTC] PHP Notice:  Undefined index: msg in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 9
+[09-Dec-2018 08:51:04 UTC] PHP Notice:  Undefined index: name in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 6
+[09-Dec-2018 08:51:04 UTC] PHP Notice:  Undefined index: email in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 7
+[09-Dec-2018 08:51:04 UTC] PHP Notice:  Undefined index: website in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 8
+[09-Dec-2018 08:51:04 UTC] PHP Notice:  Undefined index: msg in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 9
+[12-Jan-2019 10:56:41 UTC] PHP Notice:  Undefined index: name in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 6
+[12-Jan-2019 10:56:41 UTC] PHP Notice:  Undefined index: email in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 7
+[12-Jan-2019 10:56:41 UTC] PHP Notice:  Undefined index: website in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 8
+[12-Jan-2019 10:56:41 UTC] PHP Notice:  Undefined index: msg in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 9
+[08-Feb-2019 16:15:08 UTC] PHP Notice:  Undefined index: name in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 6
+[08-Feb-2019 16:15:08 UTC] PHP Notice:  Undefined index: email in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 7
+[08-Feb-2019 16:15:08 UTC] PHP Notice:  Undefined index: website in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 8
+[08-Feb-2019 16:15:08 UTC] PHP Notice:  Undefined index: msg in /home/qd23rkwr8b0d/public_html/sk_front/getcontact.php on line 9

@@ -1,0 +1,174 @@
+
+/* Top Nav */
+
+.top_nav
+{
+	background-color: #56ce30;
+}
+.top-left p
+{
+	color: white;
+}
+
+/* Slider */
+
+.slider_heading_small, .slider_heading
+{
+	color: #56ce30;
+}
+
+.slider_button
+{
+	background-color: #56ce30; 
+}
+.slider_button:hover
+{
+	background-color: none;
+}
+
+
+/* TOP Nav*/
+
+.top-nav, .top_nav_left
+{
+	text-transform: ;
+}
+.top-right
+{
+	color: white; margin-top: 15px;
+}
+
+
+/*
+
+=======================
+*** Serivces
+=======================
+*/
+
+
+.service_part
+{
+	text-align: center;
+
+}
+.service_icon
+{
+	margin-bottom: 5px;
+}
+
+
+/*
+
+Start About Seection
+
+*/
+
+.provide_col
+{
+	margin-top: 20px;
+	text-align: center;
+}
+.provide_title
+{
+	color: #fe4c50;
+}
+
+
+/*
+Team Section
+*/
+
+.about_logo
+{
+	text-align: center;
+}
+.about_logo img
+{
+	width: 30%;
+	margin-bottom: 20px;
+}
+.about_desc
+{
+	text-align: center;
+}
+
+.col-two
+{
+	margin-top: 40px;
+}
+.col-three
+{
+	margin-top: 30px;
+}
+.col-four
+{
+	margin-top: 80px;
+}
+.col-five
+{
+	margin-top: 70px;
+}
+.col-six
+{
+	margin-top: 50px;
+}
+
+/* Resposiveness*/
+
+@media only screen and (max-width: 1199px)
+{
+
+/*Services*/
+	.col-two
+	{
+		margin-top: 13px;
+	}
+	@media only screen and (max-width: 1199px)
+{
+	.col-three
+	{
+		margin-top: 12px;
+	}
+	.col-four
+	{
+		margin-top: 10px;
+	}
+	.col-five
+	{
+		margin-top: 10px;
+	}
+	.col-six
+	{
+		margin-top: 20px;
+	}
+}
+
+}
+
+
+@media only screen and (max-width: 991px)
+{
+	.col-two
+	{
+		margin-top: 10px;
+	}
+	.col-three
+	{
+		margin-top: -35px;
+	}
+
+	
+}
+
+@media only screen and (max-width: 767px)
+{
+	.col-two
+	{
+		margin-top: 0px;
+	}
+	.col-three
+	{
+		margin-top: 0px;
+	}
+}
